@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Close.png</file>
+        <file>New.png</file>
+        <file>Open.png</file>
+        <file>Save.png</file>
+        <file>SaveAs.png</file>
+        <file>icon.png</file>
+        <file>back.png</file>
+        <file>Copy.png</file>
+        <file>Cut.png</file>
+        <file>Paste.png</file>
+        <file>compile.png</file>
+        <file>cr.png</file>
+        <file>run.png</file>
+        <file>search.png</file>
+        <file>replace.png</file>
+        <file>project.png</file>
+        <file>folder.png</file>
+        <file>closeproject.png</file>
+        <file>wordlist.txt</file>
+        <file>cpp.png</file>
+        <file>h.png</file>
+        <file>function.png</file>
+        <file>debug.png</file>
+    </qresource>
+</RCC>
